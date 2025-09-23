@@ -1,0 +1,7 @@
+"Reference","Value","Footprint","JLCPCB Part #","Package","Qty"
+"C1",".1uF","Capacitor_SMD:C_0402_1005Metric","C1525","0402","1"
+"C2","2.2uF","Capacitor_SMD:C_0402_1005Metric","C12530","0402","1"
+"C3","10nF","Capacitor_SMD:C_0402_1005Metric","C15195","0402","1"
+"H1-H4","MountingHole","MountingHole:MountingHole_3mm","","","4"
+"J1, J2","Conn_01x04_Pin","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","","","2"
+"U1","ICM-42688-P","ICM-42688-P:PQFN50P300X250X97-14N","C1850418","LGA-14 TDK InvenSense","1"

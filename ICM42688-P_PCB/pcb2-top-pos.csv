@@ -1,0 +1,7 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+C1,.1uF,C_0402_1005Metric,163.35,-104.93,-90,top
+C2,2.2uF,C_0402_1005Metric,162.34,-104.93,-90,top
+C3,10nF,C_0402_1005Metric,160,-105.82,0,top
+J1,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,163.57,-110.91,-90,top
+J2,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,155.95,-96.41,90,top
+U1,ICM-42688-P,PQFN50P300X250X97-14N,159.9725,-103.66,0,top
