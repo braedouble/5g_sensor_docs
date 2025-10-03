@@ -1,0 +1,12 @@
+# MMRI 5G Connection
+- 1 Gbps connection from 5G core to ethernet at front post (A106-65)
+- IP address of device connected to this port (LBO) gets a static IP and will be routed to the UE subnet (192.168.241.XXX)
+    - LBO STATIC IP ADDRESS INFO
+    - IP: 192.168.254.100-110
+    - Subnet Mask: 255.255.255.0 (24 length)
+    - Gateway: 192.168.254.1
+- UE device should use dynamic IP address
+    - Will recieve a 192.168.241.XXX IP address, is routed to 192.168.254.XXX and will allow you to ping
+- To test connection
+    - Ping gateway (192.168.254.1)
+    - Ping Core <---> UE device both ways
